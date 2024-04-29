@@ -48,7 +48,7 @@ a {
 }
 
 .section-header{
-    horizontal-alignment: var(--section-header-align);
+    text-align: var(--section-header-align);
 }
   
 .section-tagline,
