@@ -50,7 +50,7 @@ a {
     color: #D73953;
 }
 
-.section-header{
+.section-header {
     text-align: var(--section-header-align);
 }
 
@@ -58,7 +58,7 @@ a {
     color: var(--color-primary);
 }
 
-.section-title{
+.section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
