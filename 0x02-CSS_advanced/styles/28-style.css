@@ -286,7 +286,7 @@
    * 1. Correct the odd appearance in Chrome and Safari.
    * 2. Correct the outline style in Safari.
    */
-  
+
   [type="search"] {
     -webkit-appearance: textfield; /* 1 */
     outline-offset: -2px; /* 2 */
@@ -400,7 +400,7 @@
     --header-logo-link-display: inline-block;
     --header-logo-link-position: absolute;
     --header-logo-link-top: -1rem;
-    --header-logo-link-left
+    --header-logo-link-left: 0;
 }
 *,
 *:after,
