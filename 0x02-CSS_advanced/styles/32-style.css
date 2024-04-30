@@ -719,9 +719,7 @@ ul.row {
     opacity: 1;
 }
 
-.card-work:hover .card-inner {
-    background-color: rgba(0, 0, 0, 0.7);
-}
+
 .section-hero {
     background-size: 90rem auto;
 }
