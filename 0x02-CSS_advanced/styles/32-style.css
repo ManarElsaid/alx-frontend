@@ -524,6 +524,7 @@ a:active {
     color: #efeded;
     font-size: 10rem;
     z-index: -1;
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-image {
