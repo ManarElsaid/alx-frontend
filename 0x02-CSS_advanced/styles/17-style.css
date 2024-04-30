@@ -441,9 +441,6 @@ a:active {
 }
 
 
-.footer {
-    padding: var(--footer-padding);
-}
 
 .card-category {
     color: var(--color-primary);
@@ -480,3 +477,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: var(--font-weight-bold);
 }
 
+.footer {
+    padding: var(--footer-padding);
+}
