@@ -36,13 +36,24 @@ body {
     line-height: var(--line-height-base);
 }
 
-a {
+a:link {
     color: #161616;
     text-decoration: none;
 }
 
+a:visted {
+    font-style: italic;
+}
+a:hover {
+    text-decoration: underline;
+}
+
 .visually-hidden {
     display: none;
+}
+
+a:active {
+    background-color: var(--color-light-grey);
 }
 
 .card-category,
