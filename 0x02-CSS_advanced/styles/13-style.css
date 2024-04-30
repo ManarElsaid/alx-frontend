@@ -29,7 +29,7 @@ html {
 }
 
 body {
-    color: var(--text-color);
+    color: #161616;
     font-family: var(--font-family-base);
     font-size: var(--font-size-medium);
     font-weight: var(--font-weight-regular);
@@ -37,11 +37,11 @@ body {
 }
 
 a:link {
-    color: var(--text-color);
+    color: #161616;
     text-decoration: none;
 }
 
-a: visited {
+a:visited {
     font-style: italic;
 }
 a:hover {
